@@ -1,4 +1,5 @@
 //Given a directed graph, design an algorithm to find out whether there is a route between two nodes.
+//Key Elements  Graph, start node and end node and Node visit state to avoid infinite loop.
 
 
 

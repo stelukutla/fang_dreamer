@@ -1,3 +1,4 @@
+/** 
 Trees : 
      A tree a asyclic graph where it has single root and its children. 
 
@@ -28,3 +29,5 @@ Type of Trees:
       Min Heap tree is complete binary tree where the parent do have less than their children. 
       Operations allowed : Insert and extration_min value.
     Max Head Tree
+
+*/

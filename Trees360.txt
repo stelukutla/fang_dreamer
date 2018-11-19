@@ -8,6 +8,7 @@ Type of Trees:
       Ternary Tree is a tree where root has more 2 children.
     Complete Binary Tree
       Complete binary tree is a tree where the root has children filled  left side before right side. 
+      
     Full Binary Tree
       Full binary tree is tree where it has non single node children to its parent.
     Perfect Binaary Tree

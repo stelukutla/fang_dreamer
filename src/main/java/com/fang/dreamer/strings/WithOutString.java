@@ -9,7 +9,7 @@ package com.fang.dreamer.strings;
  * <p>withoutString("Hello there", "llo") → "He there" withoutString("Hello there", "e") → "Hllo
  * thr" withoutString("Hello there", "x") → "Hello there"
  */
-public class StringReplace_Non_CS {
+public class WithOutString {
   public static void main(String[] args) {
     String base = "Hi HoHo";
     String remove = "Ho";

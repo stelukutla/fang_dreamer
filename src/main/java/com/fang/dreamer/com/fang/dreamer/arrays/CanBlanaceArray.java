@@ -20,7 +20,7 @@ public class CanBlanaceArray {
   }
 
   /**
-   * Return true if there is splace to split the array so that the sum of the numbers on one side is equal to the sum of the numbers on the other side.
+   * Return true if there is place to split the array so that the sum of the numbers on one side is equal to the sum of the numbers on the other side.
    * @param nums
    * @return
    */

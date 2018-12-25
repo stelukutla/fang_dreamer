@@ -14,9 +14,34 @@ package com.fang.dreamer.com.fang.dreamer.arrays;
  */
 public class CanBlanaceArray {
   public static void main(String[] args) {
-    int[] nums = new int[] {10, -1, 1, 0, 10};
+    int[] nums = new int[] {10, -1, 1, 0, 11};
 
-    System.out.println(canBalance(nums));
+    System.out.println(canBalance_Optimized(nums));
+  }
+
+
+  /**
+   * Optimized solution - Time complexity O(n)
+   * @param nums
+   * @return
+   */
+  public static boolean canBalance_Optimized(int [] nums){
+    int totalSum = 0;
+    int tempSum = 0;
+    for (int i = 0; i < nums.length; i++) {
+      totalSum = totalSum + nums[i];
+    }
+
+    int leftSum = 0;
+    for (int i = 0; i < nums.length; i++) {
+      leftSum = leftSum + nums[i];
+      tempSum = totalSum - leftSum;
+
+      if(leftSum == tempSum)
+        return  true;
+
+    }
+    return false;
   }
 
   /**

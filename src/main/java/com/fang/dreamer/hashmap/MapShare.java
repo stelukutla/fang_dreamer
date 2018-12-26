@@ -1,4 +1,4 @@
-package com.fang.dreamer.com.fang.dreamer.hashmap;
+package com.fang.dreamer.hashmap;
 
 import java.util.HashMap;
 import java.util.Map;

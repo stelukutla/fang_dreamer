@@ -1,4 +1,4 @@
-package com.fang.dreamer.com.fang.dreamer;
+package com.fang.dreamer;
 
 /**
  * public int blackjack(int a, int b) { if( a > 21 ){ if( b <=21) return b; else return 0; }else if

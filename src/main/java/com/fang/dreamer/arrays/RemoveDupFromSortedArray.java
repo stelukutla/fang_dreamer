@@ -1,4 +1,4 @@
-package com.fang.dreamer.com.fang.dreamer.arrays;
+package com.fang.dreamer.arrays;
 
 import java.util.Arrays;
 

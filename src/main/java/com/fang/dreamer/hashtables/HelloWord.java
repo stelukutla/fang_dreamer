@@ -1,4 +1,4 @@
-package com.fang.dreamer.com.fang.dreamer.hashtables;
+package com.fang.dreamer.hashtables;
 
 import java.util.Hashtable;
 

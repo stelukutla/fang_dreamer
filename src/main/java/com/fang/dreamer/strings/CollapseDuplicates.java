@@ -1,4 +1,4 @@
-package com.fang.dreamer.com.fang.dreamer.strings;
+package com.fang.dreamer.strings;
 
 /**
  *

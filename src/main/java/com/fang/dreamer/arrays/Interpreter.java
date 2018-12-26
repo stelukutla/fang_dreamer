@@ -1,4 +1,4 @@
-package com.fang.dreamer.com.fang.dreamer.arrays;
+package com.fang.dreamer.arrays;
 
 /**
  * Write a simple interpreter which understands "+", "-", and "*" operations. Apply the operations
